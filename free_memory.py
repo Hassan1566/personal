@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
 def main():
-    pass
+    """check if there is enough free memory"""
 
 main()
